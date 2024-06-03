@@ -1,0 +1,14 @@
+/Users/sam/Documents/dev/consoletest/bin/Debug/net8.0/consoletest
+/Users/sam/Documents/dev/consoletest/bin/Debug/net8.0/consoletest.deps.json
+/Users/sam/Documents/dev/consoletest/bin/Debug/net8.0/consoletest.runtimeconfig.json
+/Users/sam/Documents/dev/consoletest/bin/Debug/net8.0/consoletest.dll
+/Users/sam/Documents/dev/consoletest/bin/Debug/net8.0/consoletest.pdb
+/Users/sam/Documents/dev/consoletest/obj/Debug/net8.0/consoletest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/Documents/dev/consoletest/obj/Debug/net8.0/consoletest.AssemblyInfoInputs.cache
+/Users/sam/Documents/dev/consoletest/obj/Debug/net8.0/consoletest.AssemblyInfo.cs
+/Users/sam/Documents/dev/consoletest/obj/Debug/net8.0/consoletest.csproj.CoreCompileInputs.cache
+/Users/sam/Documents/dev/consoletest/obj/Debug/net8.0/consoletest.dll
+/Users/sam/Documents/dev/consoletest/obj/Debug/net8.0/refint/consoletest.dll
+/Users/sam/Documents/dev/consoletest/obj/Debug/net8.0/consoletest.pdb
+/Users/sam/Documents/dev/consoletest/obj/Debug/net8.0/consoletest.genruntimeconfig.cache
+/Users/sam/Documents/dev/consoletest/obj/Debug/net8.0/ref/consoletest.dll
